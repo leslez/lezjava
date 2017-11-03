@@ -1,4 +1,4 @@
 lezjava
 
 LesLez - Student
-Ike - Senpai
+Ike - crappy Senpai
